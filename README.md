@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moustaphafal
-- 👀 I’m interested in Sciencs, Mathematics and
+- 👀 I’m interested in Sciencs, Mathematics and Algorithms
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ML project, NLP or something in AI
 - 📫 How to reach me : 
